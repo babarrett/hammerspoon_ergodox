@@ -5,9 +5,9 @@
 -- "?;?.lua;~/dev/git/hammerspoon/?;?.lua"
 --	TODO: Create another modual for KeyToKey mappings such as Numeric Pad to move functions.
 
-VERSION = "2016-Dec-20"
+VERSION = "2017-Jan-01"
 hs.console.clearConsole()
-LUA_PATH = os.getenv("HOME") .. "/dev/git/hammerspoon/?"
+LUA_PATH = os.getenv("HOME") .. "/dev/git/hammerspoon_ergomac/?"
 
 HyperFn = {"cmd", "alt", "ctrl", "shift"}	-- Mash the 4 modifier keys for some new function
 HyperFnString = "⌘⌥⌃⇧"					-- Visual representation
@@ -25,36 +25,36 @@ HF 								= require "helpFunctions"	-- global. Other modules call this too.
 local pasteCurrentSafariUrl 	= require "pasteCurrentSafariUrl"
 local windowManagement 			= require "windowManagement"
 local miscFunctions 			= require "miscFunctions"
-local cheatsheets				= require "cheatsheets"
+--local cheatsheets				= require "cheatsheets"
 local launchApplications		= require "launchApplications"
 --require "launchWebPages"		-- TODO: either add into HyperFn+A (apps table) or clone that code for HyperFn+S
 require "KeyPressShow"
---require "characterMapping"
+require "characterMapping"		-- Numeric pad so far
 
 HF.add("-- Miscellaneous Functions -- "..VERSION.." --\n")
-HF.bind(HyperFn, "H", "hammerspoonHelp")
-pasteCurrentSafariUrl.bind(HyperFn, "U", "pasteSafariUrl")
-miscFunctions.bind(HyperFn, "V", "typeClipboard")
-miscFunctions.bind(HyperFn, "Q", "quitApp")
-miscFunctions.bind(HyperFn, "W", "closeWindow")
-miscFunctions.bind(HyperFn, "D", "dictate")
+HF.bind(					HyperFn, "H", "hammerspoonHelp")
+pasteCurrentSafariUrl.bind(	HyperFn, "U", "pasteSafariUrl")
+miscFunctions.bind(			HyperFn, "V", "typeClipboard")
+miscFunctions.bind(			HyperFn, "Q", "quitApp")
+miscFunctions.bind(			HyperFn, "W", "closeWindow")
+miscFunctions.bind(			HyperFn, "D", "dictate")
+miscFunctions.bind(			HyperFn, "=", "mouseHighlight")
+miscFunctions.bind(			HyperFn, "L", "lockMyScreen")
 --HyperFn+, and HyperFn+. get intercepted by OS X and will never call Hammerspoon
 --miscFunctions.bind({"ctrl", "shift"}, "/", "moveToDone")
 --miscFunctions.bind({"ctrl", "shift"}, ",", "moveToStatus")
-miscFunctions.bind(HyperFn, "=", "mouseHighlight")
-miscFunctions.bind(HyperFn, "L", "lockMyScreen")
 
 HF.add("Hyper+A     - Enter Application mode, Arrows or Char launches App.")
 
 HF.add("\n\n-- Window Management Functions --\n")
-windowManagement.bind(HyperFn, "Right", "right")
-windowManagement.bind(HyperFn, "Left", "left")
-windowManagement.bind(HyperFn, "Down", "down")
-windowManagement.bind(HyperFn, "Up", "up")
-windowManagement.bind(HyperFn, "4", "percent40")
-windowManagement.bind(HyperFn, "5", "percent50")
-windowManagement.bind(HyperFn, "6", "percent60")
-windowManagement.bind(HyperFn, "7", "percent70")
+windowManagement.bind(		HyperFn, "Right", "right")
+windowManagement.bind(		HyperFn, "Left", "left")
+windowManagement.bind(		HyperFn, "Down", "down")
+windowManagement.bind(		HyperFn, "Up", "up")
+windowManagement.bind(		HyperFn, "4", "percent40")
+windowManagement.bind(		HyperFn, "5", "percent50")
+windowManagement.bind(		HyperFn, "6", "percent60")
+windowManagement.bind(		HyperFn, "7", "percent70")
 
 -- Add list of screens to bottom of Help
 local myScreens = "\n\nActive screens:  {"
@@ -76,8 +76,10 @@ function reloadConfig(files)
         hs.reload() 
     end
 end
--- Alert "Config loaded" here, happens not as we call reload, but as we load. Default alert durration=2 sec.
+-- Alert "Config loaded" here, happens not as we call reload, but as we load.
+-- Default alert durration=2 sec.
 hs.alert.show("Config loaded")
 
 local myWatcher = hs.pathwatcher.new(os.getenv("HOME") .. "/.hammerspoon/", reloadConfig):start()
 local myWatcher = hs.pathwatcher.new(os.getenv("HOME") .. "/dev/git/hammerspoon/", reloadConfig):start()
+local myWatcher = hs.pathwatcher.new(LUA_PATH, reloadConfig):start()
