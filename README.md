@@ -12,7 +12,7 @@ Use Hammerspoon to configure ErgoDox EZ without reloading firmware.
 
 
 ## Todo list:
-* Have Hammerspoon work when ErgoDox is used, and ignore MacBook Pro keyboard 
+* Configure for ErgoDox only. Turn off Hammerspoon (manually) whenever MacBook Pro keyboard is to be used
 * Move any keys, as needed
 	* Move/create modifier keys
 	* finish off thumb clusters
