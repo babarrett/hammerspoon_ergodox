@@ -10,9 +10,12 @@ Firmware:
 	
 	Industry / ErgoDox overview:
 		http://xahlee.info/kbd/ergodox_keyboard_firmware.html
-		
-	QMK doesn't support the ATMEGA32U2, but TMK does.
 	
+	QMK doesn't support the ATMEGA32U2 (smaller), but TMK does.
+	
+	The place to start for QMK, programming, layouts including: Algernon's
+		http://qmk.fm/keyboards/ergodox/
+
 	[TMK posts here https://geekhack.org/index.php?topic=41989.0 ]
 	
 	Preferred layout and build instructions by algernon:
