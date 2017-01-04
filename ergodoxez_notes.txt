@@ -1,8 +1,16 @@
+Hardware:
+	If you have the blank key caps wich are profiled, and the way you use 
+	the thumbs ctrl, it definitly worth to make a 180 rotation of the cap.
+
+
 Firmware:
 	QMK firmware (a TMK fork)
+	Main page. Tons of stuff, how to firmware, lots of keymaps
+		http://qmk.fm/keyboards/ergodox/
+	
 	Industry / ErgoDox overview:
 		http://xahlee.info/kbd/ergodox_keyboard_firmware.html
-	
+		
 	QMK doesn't support the ATMEGA32U2, but TMK does.
 	
 	[TMK posts here https://geekhack.org/index.php?topic=41989.0 ]
