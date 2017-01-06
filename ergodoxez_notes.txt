@@ -29,6 +29,9 @@ Firmware:
 		
 		Mac & Windows. Just needs your .hex file.
 		
+Other:
+	Note: Karabiner-Elements (osx 10.11 & 10.12) supports modifier flags sharing 
+		with all connected keyboards!	https://github.com/tekezo/Karabiner-Elements
 		
 
 Atreus Keyboard
