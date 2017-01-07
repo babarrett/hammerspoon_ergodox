@@ -29,10 +29,17 @@ Firmware:
 		
 		Mac & Windows. Just needs your .hex file.
 		
+	Docker hub for firmware compiles:
+		https://hub.docker.com/r/potz/ergodox-ez-compiler/
+
 Other:
 	Note: Karabiner-Elements (osx 10.11 & 10.12) supports modifier flags sharing 
 		with all connected keyboards!	https://github.com/tekezo/Karabiner-Elements
 		
+	ErgoDox EZ security:
+		http://ntietz.com/2016/10/12/keyboards-and-security/		
+
+	
 
 Atreus Keyboard
 	https://github.com/technomancy/atreus/blob/master/README.org
