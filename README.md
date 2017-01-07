@@ -34,4 +34,4 @@ Use Hammerspoon to configure ErgoDox EZ without reloading firmware.
 * Numeric / Function as mode key
 * Support additional keys as Numeric / Function mode keys (F, K, T2)
 * Add "Edit" keys (select all, Copy, Cut, Paste, Undo) to periphery (and M2-M4 for Razer)
-
+* Update Hammerspoon to support "Change Case" by: Cut selection, alter case in memory, type it back
