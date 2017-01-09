@@ -1,0 +1,5 @@
+ID		Date		Name				Notes
+kaggxl	--			Default				Original EZ from their site
+kvlywm	1/9/2017	ErgoDox EZ BB 1.1	L0=Swap Return & space on thumbs, make "A" and ";" shifts, inner kays to OSL 1&2. L2=Strip colors
+
+	
