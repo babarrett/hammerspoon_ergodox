@@ -1,5 +1,7 @@
 ID		Date		Name				Notes
 kaggxl	--			Default				Original EZ from their site
-kvlywm	1/9/2017	ErgoDox EZ BB 1.1	L0=Swap Return & space on thumbs, make "A" and ";" shifts, inner kays to OSL 1&2. L2=Strip colors
-
-	
+kvlywm	1/9/2017	ErgoDox EZ BB 1.1	L0=Swap Return & space on thumbs, make "A" and ";" shifts, inner keys to OSL 1&2. L2=Strip colors
+kldnox	1/12/2017	ErgoDox EZ BB 2.0	Latest layout, Layers 0, 1, 2 only. No SpaceFn entered yet. Compiled
+kjdmor	1/12/2017	ErgoDox EZ BB 2.1	Latest layout, Layers 0, 1, 2, 3. Includes SpaceFn. Compiled
+knbxrm	1/12/2017	ErgoDox EZ BB 2.2	Latest layout, Z and "/" can now act as Shift. Cut, C, V, Z available on SpaceFn. Compiled
+	http://configure.ergodox-ez.com/keyboard_layouts/knbxrm/edit
