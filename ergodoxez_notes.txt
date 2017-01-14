@@ -40,8 +40,12 @@ Other:
 		http://ntietz.com/2016/10/12/keyboards-and-security/		
 
 	Karabiner supports the ability to play sounds by name in the /System/Library/Sounds directory.
+		https://geekhack.org/index.php?topic=57829.0  -- pointer to adding buzzer to ErgoDox
+			https://geekhack.org/index.php?topic=22780.msg1046607#msg1046607
+		https://geekhack.org/index.php?topic=22780.msg1046607#msg1046607
 		.aiff files
 		system sounds (beep)
+		
 
 Atreus Keyboard
 	https://github.com/technomancy/atreus/blob/master/README.org
