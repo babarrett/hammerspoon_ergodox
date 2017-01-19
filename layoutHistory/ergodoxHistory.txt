@@ -9,3 +9,7 @@ qldnar	1/14/2017	ErgoDox EZ BB 2.3	Latest layout. " key in Layer 2 fixed. Compil
 	http://configure.ergodox-ez.com/keyboard_layouts/qldnar/edit
 qmgnbr	1/14/2017	ErgoDox EZ BB 2.4	Latest layout. Changing Cut, Copy,... to Cmd+X, Cmd+C, etc. Compiled
 	http://configure.ergodox-ez.com/keyboard_layouts/qmgnbr/edit
+kvlmxa	1/18/2017	Atreus on Ergodox EZ BB 1.0	First attempt at constructing a small kbd based upon Atreus
+	http://configure.ergodox-ez.com/keyboard_layouts/kvlmxa/edit
+kyypax	1/18/2017	Atreus on Ergodox EZ BB 1.1	second attempt. More modifiers, more layer switches, carried L0 keys onto L1, L2
+	http://configure.ergodox-ez.com/keyboard_layouts/kyypax/edit
