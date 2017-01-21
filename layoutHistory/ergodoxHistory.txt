@@ -13,3 +13,5 @@ kvlmxa	1/18/2017	Atreus on Ergodox EZ BB 1.0	First attempt at constructing a sma
 	http://configure.ergodox-ez.com/keyboard_layouts/kvlmxa/edit
 kyypax	1/18/2017	Atreus on Ergodox EZ BB 1.1	second attempt. More modifiers, more layer switches, carried L0 keys onto L1, L2
 	http://configure.ergodox-ez.com/keyboard_layouts/kyypax/edit
+kjdxgw	
+	http://configure.ergodox-ez.com/keyboard_layouts/kjdxgw/edit
