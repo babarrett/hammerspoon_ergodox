@@ -19,4 +19,11 @@ kjdxgw	1/20/2017	Atreus on Ergodox EZ BB 1.3	forth attempt. Back-porting more KL
 	http://configure.ergodox-ez.com/keyboard_layouts/kjdxgw/edit
 qnblxo	1/21/2017	 Atreus on Ergodox EZ BB 1.4 fifth attempt. Removed redundant punctuation & navigation. Added initial SpaceFn keys as layer 3
 	http://configure.ergodox-ez.com/keyboard_layouts/qnblxo/edit
+qyyoxb	1/22/2017	 Atreus on Ergodox EZ BB 1.5. Add/Adjust Tab, Backspace, Esc. Make Hyper dual function.
+	http://configure.ergodox-ez.com/keyboard_layouts/qyyoxb/edit
 
+If a char is entered into Configurtor as 1,2,3 or ], \, ;, the shift+that char is the 
+traditional shifted value: !, @, #,  or }, |, :
+
+If dual function key (example Space / SpaceFn) is held "too long" the single character key
+will not be sent.
