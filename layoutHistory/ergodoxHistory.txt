@@ -21,9 +21,13 @@ qnblxo	1/21/2017	 Atreus on Ergodox EZ BB 1.4 fifth attempt. Removed redundant p
 	http://configure.ergodox-ez.com/keyboard_layouts/qnblxo/edit
 qyyoxb	1/22/2017	 Atreus on Ergodox EZ BB 1.5. Add/Adjust Tab, Backspace, Esc. Make Hyper dual function.
 	http://configure.ergodox-ez.com/keyboard_layouts/qyyoxb/edit
+qblyvn	1/26/2017	 Atreus on Ergodox EZ BB 1.6. Make L1 and L2 keys 1-shot layers. Change Graphics for + Prev. Next tabs. Change colors of L1, L2 to match legends
+	http://configure.ergodox-ez.com/keyboard_layouts/qblyvn/edit
 
 If a char is entered into Configurtor as 1,2,3 or ], \, ;, the shift+that char is the 
 traditional shifted value: !, @, #,  or }, |, :
 
 If dual function key (example Space / SpaceFn) is held "too long" the single character key
 will not be sent.
+
+If a key is used to get to a layer then it is unavailable on that layer.
