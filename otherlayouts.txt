@@ -58,3 +58,20 @@ Modifiers:
 (Hyper)	(SpaceFn)
 
 ------------------------------------------------------
+http://www.keyboard-layout-editor.com/#/gists/2b21a177844a3c518719c7ff06813975
+https://gist.github.com/tomb0y/3aaf8fd3e3bd331346df9a4623000122
+tomb0y Atreus
+
+Q	W	E		R	T				---		---			Y	U			I		O	SCLN
+A	S	D		F	G									H	J			K		L	;
+Z	X	C		V	B				RetOpt	BkSp Cmd	N	M			Dead	.	/
+Esc	[	]		Tab Shift	Esc Ctrl				_ SpcFn	Tab Shift	'		+	-
+
+%	&	?		+	@				---		---			Dlr	_			[		]	!
+#	(	=		0	{				---		---			}	1			*		)	-
+6	7	8		9	|				, Ret	Bksp		~	2			3		4	5
+--	--	CIRC	Tab Shift	`							, _	Tab Shift	BSLS	--	--
+
+
+
+
