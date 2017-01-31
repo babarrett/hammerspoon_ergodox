@@ -76,3 +76,5 @@ back to the first layer.
                           reset    ||             F1    F2    F3   F12
              super shift bksp ctrl || alt space   L0             
 
+
+
