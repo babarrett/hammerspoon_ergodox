@@ -27,6 +27,9 @@ kvlvxm	1/29/2017	 Atreus on Ergodox EZ BB 1.7. OSL's were failing. Removed other
 	http://configure.ergodox-ez.com/keyboard_layouts/kvlvxm/edit
 kmgrba	1/29/2017	 Atreus on Ergodox EZ BB 1.8. Layer 3 (SpaceFn) complete because Layout Configurator was updated.
 	http://configure.ergodox-ez.com/keyboard_layouts/kmgrba/edit
+qzjela	1/29/2017	 Atreus on Ergodox EZ BB 1.9. removed redundant keys from L1,L2,L3 from Layout Configurator, and added 1-shot modifiers to bbergodox.c
+	http://configure.ergodox-ez.com/keyboard_layouts/qzjela/edit
+	
 	
 If a char is entered into Configurtor as 1,2,3 or ], \, ;, the shift+that char is the 
 traditional shifted value: !, @, #,  or }, |, :
