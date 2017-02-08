@@ -11,8 +11,23 @@ Getting to Ergo
 	- ambidextrous?
 	- track ball?
 	
-4. Kbd
+4. OS available keyboard options
+	- Sticky keys
+	- Re-map Caps Lock key
+	- Remapping other keys
+	- SpaceFn
+	- Function key usage
+	- Hyper key usage
+	
+5. Kbd
 	- split
 	- "tenting"
 	- programable
 	- impact, if any, on pointing device
+
+
+6. Programable keyboard options
+	- Sticky keys
+	- Re-map Caps Lock key
+	- Remapping other keys
+	- SpaceFn
