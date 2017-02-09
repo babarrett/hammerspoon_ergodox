@@ -1,10 +1,19 @@
 Getting to Ergo
 
-1. Posture (limbs, head, back), table height, limbs, monitor(s), standing, chair
+1. Posture
+	- limbs, head, back
+	- (standing) desk height
+	- monitor(s)
+	- chair
 
-2. Kbd
+2. Keyboard
 	- flat or angled (rear high, front high)
-	- narrow / no numpad to reduce mouse to kbd distance
+	- narrow / no numpad to reduce mouse to keyboard distance
+	- Small?
+		40%,60% = 1,q,a,z, and space rows. Sometines includes arrow keys
+		80% = Fn,1,q,a,z, and space rows. 
+		Tenkeyless = Normal keys+Fn row+Nav. cluster
+		Full size = About 101 to 106 keys, Tenkeyless+numeric pad
 	
 3. Mouse
 	- ergo?
@@ -16,12 +25,23 @@ Getting to Ergo
 	- Re-map Caps Lock key
 	- Remapping other keys
 	- SpaceFn
+		Cut, Copy, Paste, Undo
+		Cursor movements
+		Switch windows tabs
 	- Function key usage
+		Apps
+		Web pages
 	- Hyper key usage
-	
-5. Kbd
+		Type clipboard (no formatting)
+		Choose an App
+		Move / resize windows
+			
+5. Keyboard
 	- split
 	- "tenting"
+	- staggered columns (middle finger "up" from the ones next to it)
+	- non-angled rows. Straight line from Q,A, to Z. perpendicular 
+		to base-line of keyboard
 	- programable
 	- impact, if any, on pointing device
 
@@ -31,3 +51,38 @@ Getting to Ergo
 	- Re-map Caps Lock key
 	- Remapping other keys
 	- SpaceFn
+
+
+--------------------- Tools --------------------------------
+Windows keyboard remapper & tester:
+	https://elitekeyboards.com/switchhitter.php
+
+-------------------- My Keyboard evolution -----------------
+Use Mac OS X "shortcuts" per App to unify and define most frequent 
+	function uses.
+	
+Sticky keys helps a lot, easier to tap than hold modifiers
+
+Most keys = "best" Macros on keys for frequent functions and apps.
+	Razer for 7 keys below space bar
+
+Least keys = "best" for reduced finger movement and fatigue.
+
+Programable:
+	- Re-map Caps Lock key
+	- Remapping other keys
+	- SpaceFn, including Cut/Paste
+	- Function key usage
+	- Hyper key usage
+	- Layers
+	- Tap-dance
+	- 1-shot modifiers
+	- 1-shot Layers
+	- Tap = character, hold = modifier
+...
+Still to come...
+Better fast jumps of insertion point across characters.
+	##--> goes forward ## times?
+	-->, -->, --> goes forward 1, then 3, 5, 8 characters?
+		time bassed??
+	
