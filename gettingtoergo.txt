@@ -4,6 +4,7 @@ Getting to Ergo
 	- limbs, head, back
 	- (standing) desk height
 	- monitor(s)
+	- raise laptop
 	- chair
 
 2. Keyboard
@@ -19,6 +20,8 @@ Getting to Ergo
 	- ergo?
 	- ambidextrous?
 	- track ball?
+	- DIY ergo mouse project: https://geekhack.org/index.php?topic=83697.0
+		Logitech G303 or Logitech G304 as donor's for parts.
 	
 4. OS available keyboard options
 	- Sticky keys
@@ -58,9 +61,12 @@ Windows keyboard remapper & tester:
 	https://elitekeyboards.com/switchhitter.php
 
 keyboard-layout-editor:
-	http
+	http://www.keyboard-layout-editor.com
 
 ergodox-ez layout configurator
+	http://configure.ergodox-ez.com/keyboard_layouts/new
+	
+Key frequency used (OS X)
 	http
 	
 
@@ -97,6 +103,7 @@ Looking for "ideal" small layout & functions, inspired by:
 	Algernon Diaries of a madman
 	Atreus
 	ASERT (Qwerty replacement, slight remap)
+	Misc. 40%ers
 	others
 ...
 Still to come...
