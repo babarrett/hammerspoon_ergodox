@@ -67,7 +67,7 @@ ergodox-ez layout configurator
 	http://configure.ergodox-ez.com/keyboard_layouts/new
 	
 Key frequency used (OS X)
-	http
+	WhatPulse
 	
 
 -------------------- My Keyboard evolution -----------------
