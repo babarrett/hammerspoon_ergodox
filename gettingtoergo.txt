@@ -69,6 +69,10 @@ ergodox-ez layout configurator
 Key frequency used (OS X)
 	WhatPulse
 	
+Watch key presses:
+	Switch Hitter
+	
+	
 
 -------------------- My Keyboard evolution -----------------
 Use Mac OS X "shortcuts" per App to unify and define most frequent 
